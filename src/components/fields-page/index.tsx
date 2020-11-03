@@ -21,7 +21,7 @@ export default function FieldsPage() {
               hoverable
               cover={<img alt="example" src="https://www.moneycrashers.com/wp-content/uploads/2019/03/find-good-lawyer-1068x713.jpg" />}
               >
-              <Meta title="ביטוח" description="www.instagram.com" />
+              <Meta title="ביטוח" style={{textAlign: "center"}} />
             </Card>
           </Col>
           <Col xs={24} sm={12} md={12} lg={8}>
