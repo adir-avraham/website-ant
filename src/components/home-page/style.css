@@ -5,15 +5,10 @@
     height: 100vh;
     background-position: center;
 
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.7);
     background-blend-mode: multiply;
 
 }
 
-h1 {
-    color: aliceblue;
-    font-weight: 100;
-    font-size: 4rem;
-  
-}
+
 

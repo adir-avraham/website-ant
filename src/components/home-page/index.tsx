@@ -1,10 +1,10 @@
 import React from 'react';
 import './style.css';
 import { Col, Row, Typography } from 'antd';
-import { Space } from 'antd';
 const { Title } = Typography;
 
 export default function home() {
+
 
     return (
 
@@ -13,7 +13,7 @@ export default function home() {
             <Row justify="center" align="middle">
                 <Col>
                     <Title>משרד עורכי דין אסתי קוך</Title>
-                    <h1>משרד עורכי דין אסתי קוך</h1>
+                    {/* <h1>משרד עורכי דין אסתי קוך</h1> */}
                 </Col>
             </Row>
        </div> 
